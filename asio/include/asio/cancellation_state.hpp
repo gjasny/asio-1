@@ -20,6 +20,7 @@
 #include <new>
 #include <utility>
 #include "asio/cancellation_signal.hpp"
+#include "asio/cancellation_type.hpp"
 #include "asio/detail/cstddef.hpp"
 
 #include "asio/detail/push_options.hpp"
